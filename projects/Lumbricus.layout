@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\share\lumbricus\data\lua\gameutils.lua" open="0" top="0" tabpos="6">
+		<Cursor position="14585" topLine="380" />
+	</File>
+	<File name="..\share\lumbricus\data\lua\utils.lua" open="0" top="0" tabpos="0">
+		<Cursor position="10654" topLine="294" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\debug\cheats.lua" open="0" top="0" tabpos="0">
+		<Cursor position="1663" topLine="63" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\worms_shared\crate.lua" open="0" top="0" tabpos="0">
+		<Cursor position="516" topLine="0" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\worms_shared\napalm.lua" open="0" top="0" tabpos="0">
+		<Cursor position="1257" topLine="4" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\airstrike.lua" open="0" top="0" tabpos="0">
+		<Cursor position="5015" topLine="145" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\explosive.lua" open="0" top="0" tabpos="0">
+		<Cursor position="5867" topLine="0" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\guns.lua" open="0" top="0" tabpos="5">
+		<Cursor position="727" topLine="0" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\init.lua" open="0" top="0" tabpos="0">
+		<Cursor position="282" topLine="0" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\moving.lua" open="0" top="0" tabpos="1">
+		<Cursor position="14645" topLine="454" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\rocket.lua" open="0" top="0" tabpos="0">
+		<Cursor position="7611" topLine="236" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\special.lua" open="0" top="0" tabpos="0">
+		<Cursor position="11511" topLine="329" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\throw.lua" open="0" top="0" tabpos="0">
+		<Cursor position="6290" topLine="160" />
+	</File>
+	<File name="..\share\lumbricus\data\plugins\ws_lua\tools.lua" open="0" top="0" tabpos="0">
+		<Cursor position="236" topLine="0" />
+	</File>
+	<File name="..\src\common\allres.d" open="0" top="0" tabpos="0">
+		<Cursor position="248" topLine="0" />
+	</File>
+	<File name="..\src\common\animation.d" open="1" top="0" tabpos="7">
+		<Cursor position="1261" topLine="136" />
+	</File>
+	<File name="..\src\common\debugstuff.d" open="0" top="0" tabpos="4">
+		<Cursor position="10698" topLine="342" />
+	</File>
+	<File name="..\src\common\gui_init.d" open="1" top="0" tabpos="23">
+		<Cursor position="2195" topLine="62" />
+	</File>
+	<File name="..\src\common\init.d" open="1" top="0" tabpos="25">
+		<Cursor position="6379" topLine="136" />
+	</File>
+	<File name="..\src\common\localeswitch.d" open="0" top="0" tabpos="0">
+		<Cursor position="922" topLine="24" />
+	</File>
+	<File name="..\src\common\lua.d" open="0" top="0" tabpos="0">
+		<Cursor position="2026" topLine="138" />
+	</File>
+	<File name="..\src\common\resources.d" open="0" top="0" tabpos="8">
+		<Cursor position="15024" topLine="441" />
+	</File>
+	<File name="..\src\common\resset.d" open="0" top="0" tabpos="1">
+		<Cursor position="243" topLine="1" />
+	</File>
+	<File name="..\src\common\restypes\animation.d" open="0" top="0" tabpos="3">
+		<Cursor position="711" topLine="10" />
+	</File>
+	<File name="..\src\common\restypes\bitmap.d" open="0" top="0" tabpos="0">
+		<Cursor position="370" topLine="5" />
+	</File>
+	<File name="..\src\common\restypes\sound.d" open="0" top="0" tabpos="0">
+		<Cursor position="759" topLine="15" />
+	</File>
+	<File name="..\src\common\resview.d" open="0" top="0" tabpos="2">
+		<Cursor position="17129" topLine="584" />
+	</File>
+	<File name="..\src\common\scene.d" open="0" top="0" tabpos="4">
+		<Cursor position="5557" topLine="120" />
+	</File>
+	<File name="..\src\common\task.d" open="0" top="0" tabpos="27">
+		<Cursor position="482" topLine="0" />
+	</File>
+	<File name="..\src\common\toplevel.d" open="1" top="0" tabpos="24">
+		<Cursor position="8078" topLine="245" />
+	</File>
+	<File name="..\src\derelict\directx\d3d9.d" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="820" />
+	</File>
+	<File name="..\src\derelict\directx\d3d9caps.d" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="9" />
+	</File>
+	<File name="..\src\derelict\directx\d3d9types.d" open="0" top="0" tabpos="0">
+		<Cursor position="1342" topLine="8" />
+	</File>
+	<File name="..\src\derelict\directx\d3dx9.d" open="0" top="0" tabpos="0">
+		<Cursor position="762" topLine="2055" />
+	</File>
+	<File name="..\src\derelict\enet\enet.d" open="0" top="0" tabpos="0">
+		<Cursor position="105" topLine="0" />
+	</File>
+	<File name="..\src\derelict\enet\enetfuncs.d" open="0" top="0" tabpos="8">
+		<Cursor position="1028" topLine="3" />
+	</File>
+	<File name="..\src\derelict\enet\enettypes.d" open="0" top="0" tabpos="9">
+		<Cursor position="801" topLine="18" />
+	</File>
+	<File name="..\src\derelict\fmod\fmod.d" open="0" top="0" tabpos="0">
+		<Cursor position="265" topLine="0" />
+	</File>
+	<File name="..\src\derelict\fmod\fmoddsp.d" open="0" top="0" tabpos="0">
+		<Cursor position="4215" topLine="150" />
+	</File>
+	<File name="..\src\derelict\fmod\fmoderrors.d" open="0" top="0" tabpos="0">
+		<Cursor position="3477" topLine="30" />
+	</File>
+	<File name="..\src\derelict\fmod\fmodfuncs.d" open="0" top="0" tabpos="6">
+		<Cursor position="532" topLine="0" />
+	</File>
+	<File name="..\src\derelict\fmod\fmodtypes.d" open="0" top="0" tabpos="7">
+		<Cursor position="6091" topLine="183" />
+	</File>
+	<File name="..\src\derelict\lua\lua.d" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="84" />
+	</File>
+	<File name="..\src\derelict\sdl\sound.d" open="0" top="0" tabpos="0">
+		<Cursor position="2886" topLine="66" />
+	</File>
+	<File name="..\src\framework\commandline.d" open="0" top="0" tabpos="9">
+		<Cursor position="14021" topLine="411" />
+	</File>
+	<File name="..\src\framework\config.d" open="0" top="0" tabpos="0">
+		<Cursor position="350" topLine="16" />
+	</File>
+	<File name="..\src\framework\drawing.d" open="1" top="0" tabpos="26">
+		<Cursor position="6687" topLine="163" />
+	</File>
+	<File name="..\src\framework\driver_base.d" open="1" top="0" tabpos="21">
+		<Cursor position="1947" topLine="37" />
+	</File>
+	<File name="..\src\framework\drivers\base_sdl.d" open="1" top="0" tabpos="22">
+		<Cursor position="17185" topLine="449" />
+	</File>
+	<File name="..\src\framework\drivers\clipboard_win32.d" open="0" top="0" tabpos="0">
+		<Cursor position="665" topLine="7" />
+	</File>
+	<File name="..\src\framework\drivers\clipboard_x11.d" open="0" top="0" tabpos="0">
+		<Cursor position="715" topLine="371" />
+	</File>
+	<File name="..\src\framework\drivers\draw_directx.d" open="0" top="0" tabpos="1">
+		<Cursor position="8577" topLine="242" />
+	</File>
+	<File name="..\src\framework\drivers\draw_opengl.d" open="0" top="0" tabpos="3">
+		<Cursor position="6927" topLine="205" />
+	</File>
+	<File name="..\src\framework\drivers\draw_sdl.d" open="0" top="0" tabpos="0">
+		<Cursor position="15323" topLine="430" />
+	</File>
+	<File name="..\src\framework\drivers\fmodstreamfs.d" open="0" top="0" tabpos="0">
+		<Cursor position="175" topLine="0" />
+	</File>
+	<File name="..\src\framework\drivers\font_freetype.d" open="0" top="0" tabpos="0">
+		<Cursor position="1486" topLine="38" />
+	</File>
+	<File name="..\src\framework\drivers\sound_fmod.d" open="0" top="0" tabpos="0">
+		<Cursor position="3480" topLine="129" />
+	</File>
+	<File name="..\src\framework\drivers\sound_openal.d" open="0" top="0" tabpos="4">
+		<Cursor position="5494" topLine="192" />
+	</File>
+	<File name="..\src\framework\event.d" open="0" top="0" tabpos="22">
+		<Cursor position="1715" topLine="46" />
+	</File>
+	<File name="..\src\framework\filesystem.d" open="0" top="0" tabpos="1">
+		<Cursor position="23619" topLine="676" />
+	</File>
+	<File name="..\src\framework\font.d" open="1" top="0" tabpos="15">
+		<Cursor position="2886" topLine="82" />
+	</File>
+	<File name="..\src\framework\globalsettings.d" open="0" top="0" tabpos="0">
+		<Cursor position="348" topLine="269" />
+	</File>
+	<File name="..\src\framework\i18n.d" open="0" top="0" tabpos="6">
+		<Cursor position="13339" topLine="364" />
+	</File>
+	<File name="..\src\framework\imgread.d" open="0" top="0" tabpos="1">
+		<Cursor position="1439" topLine="21" />
+	</File>
+	<File name="..\src\framework\imgwrite.d" open="1" top="0" tabpos="18">
+		<Cursor position="292" topLine="56" />
+	</File>
+	<File name="..\src\framework\keybindings.d" open="0" top="0" tabpos="7">
+		<Cursor position="495" topLine="10" />
+	</File>
+	<File name="..\src\framework\keysyms.d" open="0" top="0" tabpos="4">
+		<Cursor position="107" topLine="0" />
+	</File>
+	<File name="..\src\framework\lua.d" open="0" top="0" tabpos="6">
+		<Cursor position="78467" topLine="1966" />
+	</File>
+	<File name="..\src\framework\main.d" open="1" top="0" tabpos="20">
+		<Cursor position="12652" topLine="418" />
+	</File>
+	<File name="..\src\framework\rotozoom.d" open="0" top="0" tabpos="0">
+		<Cursor position="2246" topLine="52" />
+	</File>
+	<File name="..\src\framework\sdl\rwops.d" open="0" top="0" tabpos="0">
+		<Cursor position="99" topLine="0" />
+	</File>
+	<File name="..\src\framework\sdl\sdl.d" open="0" top="0" tabpos="0">
+		<Cursor position="647" topLine="3" />
+	</File>
+	<File name="..\src\framework\sound.d" open="0" top="0" tabpos="3">
+		<Cursor position="5142" topLine="218" />
+	</File>
+	<File name="..\src\framework\stuff.d" open="0" top="0" tabpos="2">
+		<Cursor position="687" topLine="0" />
+	</File>
+	<File name="..\src\framework\surface.d" open="0" top="0" tabpos="0">
+		<Cursor position="4114" topLine="98" />
+	</File>
+	<File name="..\src\framework\texturepack.d" open="0" top="0" tabpos="0">
+		<Cursor position="2097" topLine="24" />
+	</File>
+	<File name="..\src\game\animation.d" open="0" top="0" tabpos="1">
+		<Cursor position="3469" topLine="67" />
+	</File>
+	<File name="..\src\game\bomberworm.d" open="0" top="0" tabpos="0">
+		<Cursor position="16354" topLine="472" />
+	</File>
+	<File name="..\src\game\controller.d" open="0" top="0" tabpos="21">
+		<Cursor position="28917" topLine="699" />
+	</File>
+	<File name="..\src\game\core.d" open="0" top="0" tabpos="11">
+		<Cursor position="11104" topLine="315" />
+	</File>
+	<File name="..\src\game\effects.d" open="0" top="0" tabpos="0">
+		<Cursor position="210" topLine="31" />
+	</File>
+	<File name="..\src\game\events.d" open="0" top="0" tabpos="3">
+		<Cursor position="541" topLine="3" />
+	</File>
+	<File name="..\src\game\game.d" open="0" top="0" tabpos="10">
+		<Cursor position="26521" topLine="724" />
+	</File>
+	<File name="..\src\game\gamemodes\base.d" open="0" top="0" tabpos="0">
+		<Cursor position="961" topLine="3" />
+	</File>
+	<File name="..\src\game\gamemodes\realtime.d" open="0" top="0" tabpos="6">
+		<Cursor position="1722" topLine="29" />
+	</File>
+	<File name="..\src\game\gamemodes\turnbased.d" open="0" top="0" tabpos="1">
+		<Cursor position="150" topLine="0" />
+	</File>
+	<File name="..\src\game\gameshell.d" open="0" top="0" tabpos="11">
+		<Cursor position="32249" topLine="900" />
+	</File>
+	<File name="..\src\game\gametask.d" open="0" top="0" tabpos="3">
+		<Cursor position="15328" topLine="486" />
+	</File>
+	<File name="..\src\game\gfxset.d" open="0" top="0" tabpos="24">
+		<Cursor position="2311" topLine="75" />
+	</File>
+	<File name="..\src\game\glevel.d" open="0" top="0" tabpos="1">
+		<Cursor position="873" topLine="23" />
+	</File>
+	<File name="..\src\game\gui\gamesummary.d" open="0" top="0" tabpos="7">
+		<Cursor position="1715" topLine="39" />
+	</File>
+	<File name="..\src\game\gui\levelpaint.d" open="0" top="0" tabpos="1">
+		<Cursor position="10178" topLine="299" />
+	</File>
+	<File name="..\src\game\gui\loadingscreen.d" open="0" top="0" tabpos="1">
+		<Cursor position="230" topLine="62" />
+	</File>
+	<File name="..\src\game\gui\preview.d" open="0" top="0" tabpos="1">
+		<Cursor position="4916" topLine="115" />
+	</File>
+	<File name="..\src\game\gui\setup_local.d" open="0" top="0" tabpos="0">
+		<Cursor position="3864" topLine="95" />
+	</File>
+	<File name="..\src\game\gui\teamedit.d" open="0" top="0" tabpos="1">
+		<Cursor position="8259" topLine="207" />
+	</File>
+	<File name="..\src\game\gui\welcome.d" open="0" top="0" tabpos="3">
+		<Cursor position="1091" topLine="15" />
+	</File>
+	<File name="..\src\game\hud\camera.d" open="0" top="0" tabpos="3">
+		<Cursor position="995" topLine="10" />
+	</File>
+	<File name="..\src\game\hud\gameframe.d" open="0" top="0" tabpos="2">
+		<Cursor position="13452" topLine="414" />
+	</File>
+	<File name="..\src\game\hud\gameteams.d" open="0" top="0" tabpos="4">
+		<Cursor position="8244" topLine="239" />
+	</File>
+	<File name="..\src\game\hud\gametimer.d" open="0" top="0" tabpos="12">
+		<Cursor position="5090" topLine="138" />
+	</File>
+	<File name="..\src\game\hud\gameview.d" open="0" top="0" tabpos="1">
+		<Cursor position="8804" topLine="258" />
+	</File>
+	<File name="..\src\game\hud\messageviewer.d" open="0" top="0" tabpos="1">
+		<Cursor position="1610" topLine="39" />
+	</File>
+	<File name="..\src\game\hud\network.d" open="0" top="0" tabpos="10">
+		<Cursor position="2025" topLine="45" />
+	</File>
+	<File name="..\src\game\hud\powerups.d" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="23" />
+	</File>
+	<File name="..\src\game\hud\preparedisplay.d" open="0" top="0" tabpos="0">
+		<Cursor position="436" topLine="19" />
+	</File>
+	<File name="..\src\game\hud\replaytimer.d" open="0" top="0" tabpos="0">
+		<Cursor position="940" topLine="6" />
+	</File>
+	<File name="..\src\game\hud\teaminfo.d" open="0" top="0" tabpos="5">
+		<Cursor position="247" topLine="0" />
+	</File>
+	<File name="..\src\game\hud\weapondisplay.d" open="0" top="0" tabpos="1">
+		<Cursor position="654" topLine="0" />
+	</File>
+	<File name="..\src\game\hud\weaponsel.d" open="0" top="0" tabpos="2">
+		<Cursor position="774" topLine="14" />
+	</File>
+	<File name="..\src\game\hud\windmeter.d" open="0" top="0" tabpos="4">
+		<Cursor position="1224" topLine="30" />
+	</File>
+	<File name="..\src\game\input.d" open="0" top="0" tabpos="2">
+		<Cursor position="7034" topLine="208" />
+	</File>
+	<File name="..\src\game\levelgen\generator.d" open="0" top="0" tabpos="3">
+		<Cursor position="5271" topLine="128" />
+	</File>
+	<File name="..\src\game\levelgen\genrandom.d" open="0" top="0" tabpos="0">
+		<Cursor position="379" topLine="0" />
+	</File>
+	<File name="..\src\game\levelgen\landscape.d" open="0" top="0" tabpos="0">
+		<Cursor position="1068" topLine="0" />
+	</File>
+	<File name="..\src\game\levelgen\level.d" open="0" top="0" tabpos="2">
+		<Cursor position="6688" topLine="16" />
+	</File>
+	<File name="..\src\game\levelgen\placeobjects.d" open="0" top="0" tabpos="0">
+		<Cursor position="124" topLine="0" />
+	</File>
+	<File name="..\src\game\levelgen\renderer.d" open="0" top="0" tabpos="3">
+		<Cursor position="915" topLine="18" />
+	</File>
+	<File name="..\src\game\loader.d" open="0" top="0" tabpos="3">
+		<Cursor position="261" topLine="33" />
+	</File>
+	<File name="..\src\game\lua\all.d" open="0" top="0" tabpos="6">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="..\src\game\lua\base.d" open="0" top="0" tabpos="4">
+		<Cursor position="2018" topLine="56" />
+	</File>
+	<File name="..\src\game\lua\control.d" open="0" top="0" tabpos="2">
+		<Cursor position="1542" topLine="22" />
+	</File>
+	<File name="..\src\game\lua\engine.d" open="0" top="0" tabpos="1">
+		<Cursor position="564" topLine="2" />
+	</File>
+	<File name="..\src\game\lua\physics.d" open="0" top="0" tabpos="4">
+		<Cursor position="3092" topLine="30" />
+	</File>
+	<File name="..\src\game\lua\weapon.d" open="0" top="0" tabpos="6">
+		<Cursor position="795" topLine="7" />
+	</File>
+	<File name="..\src\game\particles.d" open="0" top="0" tabpos="23">
+		<Cursor position="23006" topLine="479" />
+	</File>
+	<File name="..\src\game\plugin\crate.d" open="0" top="0" tabpos="2">
+		<Cursor position="29" topLine="0" />
+	</File>
+	<File name="..\src\game\plugin\messages.d" open="0" top="0" tabpos="0">
+		<Cursor position="3816" topLine="101" />
+	</File>
+	<File name="..\src\game\plugin\persistence.d" open="0" top="0" tabpos="0">
+		<Cursor position="3402" topLine="68" />
+	</File>
+	<File name="..\src\game\plugin\statistics.d" open="0" top="0" tabpos="0">
+		<Cursor position="140" topLine="0" />
+	</File>
+	<File name="..\src\game\plugins.d" open="0" top="0" tabpos="3">
+		<Cursor position="4130" topLine="22" />
+	</File>
+	<File name="..\src\game\sequence.d" open="0" top="0" tabpos="4">
+		<Cursor position="4245" topLine="118" />
+	</File>
+	<File name="..\src\game\setup.d" open="0" top="0" tabpos="2">
+		<Cursor position="4440" topLine="6" />
+	</File>
+	<File name="..\src\game\sky.d" open="0" top="0" tabpos="1">
+		<Cursor position="3365" topLine="0" />
+	</File>
+	<File name="..\src\game\sprite.d" open="0" top="0" tabpos="2">
+		<Cursor position="9955" topLine="68" />
+	</File>
+	<File name="..\src\game\teamtheme.d" open="0" top="0" tabpos="0">
+		<Cursor position="434" topLine="8" />
+	</File>
+	<File name="..\src\game\temp.d" open="0" top="0" tabpos="2">
+		<Cursor position="987" topLine="7" />
+	</File>
+	<File name="..\src\game\water.d" open="0" top="0" tabpos="4">
+		<Cursor position="2853" topLine="90" />
+	</File>
+	<File name="..\src\game\wcontrol.d" open="0" top="0" tabpos="1">
+		<Cursor position="9996" topLine="42" />
+	</File>
+	<File name="..\src\game\weapon\airstrike.d" open="0" top="0" tabpos="3">
+		<Cursor position="1065" topLine="16" />
+	</File>
+	<File name="..\src\game\weapon\drill.d" open="0" top="0" tabpos="3">
+		<Cursor position="264" topLine="30" />
+	</File>
+	<File name="..\src\game\weapon\girder.d" open="0" top="0" tabpos="4">
+		<Cursor position="4024" topLine="0" />
+	</File>
+	<File name="..\src\game\weapon\helpers.d" open="0" top="0" tabpos="1">
+		<Cursor position="347" topLine="0" />
+	</File>
+	<File name="..\src\game\weapon\jetpack.d" open="0" top="0" tabpos="5">
+		<Cursor position="1882" topLine="51" />
+	</File>
+	<File name="..\src\game\weapon\luaweapon.d" open="0" top="0" tabpos="3">
+		<Cursor position="1733" topLine="45" />
+	</File>
+	<File name="..\src\game\weapon\napalm.d" open="0" top="0" tabpos="3">
+		<Cursor position="2244" topLine="54" />
+	</File>
+	<File name="..\src\game\weapon\parachute.d" open="0" top="0" tabpos="6">
+		<Cursor position="2276" topLine="67" />
+	</File>
+	<File name="..\src\game\weapon\rope.d" open="0" top="0" tabpos="4">
+		<Cursor position="1562" topLine="15" />
+	</File>
+	<File name="..\src\game\weapon\spawn.d" open="0" top="0" tabpos="0">
+		<Cursor position="915" topLine="6" />
+	</File>
+	<File name="..\src\game\weapon\types.d" open="0" top="0" tabpos="2">
+		<Cursor position="1967" topLine="34" />
+	</File>
+	<File name="..\src\game\weapon\weapon.d" open="0" top="0" tabpos="1">
+		<Cursor position="2711" topLine="65" />
+	</File>
+	<File name="..\src\game\weapon\weaponset.d" open="0" top="0" tabpos="2">
+		<Cursor position="269" topLine="0" />
+	</File>
+	<File name="..\src\game\worm.d" open="0" top="0" tabpos="2">
+		<Cursor position="13960" topLine="426" />
+	</File>
+	<File name="..\src\game\wtris.d" open="0" top="0" tabpos="0">
+		<Cursor position="16088" topLine="510" />
+	</File>
+	<File name="..\src\gui\boxcontainer.d" open="0" top="0" tabpos="4">
+		<Cursor position="607" topLine="3" />
+	</File>
+	<File name="..\src\gui\button.d" open="0" top="0" tabpos="4">
+		<Cursor position="4866" topLine="251" />
+	</File>
+	<File name="..\src\gui\console.d" open="0" top="0" tabpos="8">
+		<Cursor position="2964" topLine="75" />
+	</File>
+	<File name="..\src\gui\container.d" open="0" top="0" tabpos="5">
+		<Cursor position="313" topLine="6" />
+	</File>
+	<File name="..\src\gui\dropdownlist.d" open="0" top="0" tabpos="3">
+		<Cursor position="3450" topLine="118" />
+	</File>
+	<File name="..\src\gui\edit.d" open="0" top="0" tabpos="1">
+		<Cursor position="7666" topLine="214" />
+	</File>
+	<File name="..\src\gui\fps.d" open="0" top="0" tabpos="1">
+		<Cursor position="855" topLine="0" />
+	</File>
+	<File name="..\src\gui\global.d" open="0" top="0" tabpos="2">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="..\src\gui\label.d" open="0" top="0" tabpos="2">
+		<Cursor position="1546" topLine="48" />
+	</File>
+	<File name="..\src\gui\list.d" open="0" top="0" tabpos="11">
+		<Cursor position="5916" topLine="174" />
+	</File>
+	<File name="..\src\gui\loader.d" open="0" top="0" tabpos="4">
+		<Cursor position="3436" topLine="113" />
+	</File>
+	<File name="..\src\gui\logwindow.d" open="0" top="0" tabpos="3">
+		<Cursor position="7337" topLine="193" />
+	</File>
+	<File name="..\src\gui\mousescroller.d" open="0" top="0" tabpos="2">
+		<Cursor position="3319" topLine="54" />
+	</File>
+	<File name="..\src\gui\progress.d" open="0" top="0" tabpos="5">
+		<Cursor position="206" topLine="0" />
+	</File>
+	<File name="..\src\gui\propedit.d" open="0" top="0" tabpos="0">
+		<Cursor position="3426" topLine="112" />
+	</File>
+	<File name="..\src\gui\renderbox.d" open="0" top="0" tabpos="0">
+		<Cursor position="141" topLine="9" />
+	</File>
+	<File name="..\src\gui\rendertext.d" open="0" top="0" tabpos="2">
+		<Cursor position="6779" topLine="184" />
+	</File>
+	<File name="..\src\gui\scrollbar.d" open="0" top="0" tabpos="2">
+		<Cursor position="1781" topLine="42" />
+	</File>
+	<File name="..\src\gui\scrollwindow.d" open="0" top="0" tabpos="2">
+		<Cursor position="12588" topLine="366" />
+	</File>
+	<File name="..\src\gui\styles.d" open="0" top="0" tabpos="13">
+		<Cursor position="17455" topLine="502" />
+	</File>
+	<File name="..\src\gui\tablecontainer.d" open="0" top="0" tabpos="11">
+		<Cursor position="4331" topLine="96" />
+	</File>
+	<File name="..\src\gui\tabs.d" open="0" top="0" tabpos="6">
+		<Cursor position="4120" topLine="146" />
+	</File>
+	<File name="..\src\gui\test.d" open="0" top="0" tabpos="1">
+		<Cursor position="30063" topLine="986" />
+	</File>
+	<File name="..\src\gui\widget.d" open="0" top="0" tabpos="14">
+		<Cursor position="2255" topLine="58" />
+	</File>
+	<File name="..\src\gui\window.d" open="0" top="0" tabpos="1">
+		<Cursor position="13886" topLine="374" />
+	</File>
+	<File name="..\src\ludum\bindings.d" open="1" top="0" tabpos="14">
+		<Cursor position="1155" topLine="89" />
+	</File>
+	<File name="..\src\ludum\entity.d" open="1" top="0" tabpos="9">
+		<Cursor position="2829" topLine="115" />
+	</File>
+	<File name="..\src\ludum\game.d" open="1" top="0" tabpos="1">
+		<Cursor position="1703" topLine="56" />
+	</File>
+	<File name="..\src\ludum\gametask.d" open="1" top="1" tabpos="2">
+		<Cursor position="996" topLine="30" />
+	</File>
+	<File name="..\src\ludum\hud\death.d" open="1" top="0" tabpos="17">
+		<Cursor position="410" topLine="17" />
+	</File>
+	<File name="..\src\ludum\hud\gameframe.d" open="1" top="0" tabpos="11">
+		<Cursor position="3593" topLine="118" />
+	</File>
+	<File name="..\src\ludum\hud\health.d" open="1" top="0" tabpos="12">
+		<Cursor position="1174" topLine="23" />
+	</File>
+	<File name="..\src\ludum\level.d" open="1" top="0" tabpos="3">
+		<Cursor position="478" topLine="0" />
+	</File>
+	<File name="..\src\ludum\player.d" open="1" top="0" tabpos="6">
+		<Cursor position="1744" topLine="47" />
+	</File>
+	<File name="..\src\ludum\renderer.d" open="1" top="0" tabpos="5">
+		<Cursor position="3251" topLine="112" />
+	</File>
+	<File name="..\src\ludum\shape.d" open="1" top="0" tabpos="4">
+		<Cursor position="862" topLine="15" />
+	</File>
+	<File name="..\src\ludum\trap.d" open="1" top="0" tabpos="8">
+		<Cursor position="1508" topLine="45" />
+	</File>
+	<File name="..\src\lumbricus.d" open="1" top="0" tabpos="19">
+		<Cursor position="797" topLine="21" />
+	</File>
+	<File name="..\src\net\announce.d" open="0" top="0" tabpos="5">
+		<Cursor position="317" topLine="84" />
+	</File>
+	<File name="..\src\net\announce_lan.d" open="0" top="0" tabpos="3">
+		<Cursor position="3422" topLine="101" />
+	</File>
+	<File name="..\src\net\announce_php.d" open="0" top="0" tabpos="3">
+		<Cursor position="6494" topLine="198" />
+	</File>
+	<File name="..\src\net\broadcast.d" open="0" top="0" tabpos="4">
+		<Cursor position="1662" topLine="50" />
+	</File>
+	<File name="..\src\net\cmdclient.d" open="0" top="0" tabpos="3">
+		<Cursor position="14906" topLine="464" />
+	</File>
+	<File name="..\src\net\cmdprotocol.d" open="0" top="0" tabpos="3">
+		<Cursor position="2041" topLine="69" />
+	</File>
+	<File name="..\src\net\cmdserver.d" open="0" top="0" tabpos="2">
+		<Cursor position="8353" topLine="256" />
+	</File>
+	<File name="..\src\net\cmdserver_gui.d" open="0" top="0" tabpos="1">
+		<Cursor position="423" topLine="19" />
+	</File>
+	<File name="..\src\net\iflist.d" open="0" top="0" tabpos="1">
+		<Cursor position="2328" topLine="48" />
+	</File>
+	<File name="..\src\net\lobby.d" open="0" top="0" tabpos="7">
+		<Cursor position="15747" topLine="449" />
+	</File>
+	<File name="..\src\net\marshal.d" open="0" top="0" tabpos="5">
+		<Cursor position="3798" topLine="113" />
+	</File>
+	<File name="..\src\net\netlayer.d" open="0" top="0" tabpos="3">
+		<Cursor position="6481" topLine="190" />
+	</File>
+	<File name="..\src\net\serverlist.d" open="0" top="0" tabpos="2">
+		<Cursor position="273" topLine="6" />
+	</File>
+	<File name="..\src\physics\base.d" open="0" top="0" tabpos="2">
+		<Cursor position="1207" topLine="22" />
+	</File>
+	<File name="..\src\physics\broadphase.d" open="0" top="0" tabpos="4">
+		<Cursor position="1967" topLine="44" />
+	</File>
+	<File name="..\src\physics\collide.d" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="24" />
+	</File>
+	<File name="..\src\physics\collisionmap.d" open="0" top="0" tabpos="6">
+		<Cursor position="3594" topLine="94" />
+	</File>
+	<File name="..\src\physics\contact.d" open="0" top="0" tabpos="7">
+		<Cursor position="4801" topLine="7" />
+	</File>
+	<File name="..\src\physics\earthquake.d" open="0" top="0" tabpos="4">
+		<Cursor position="3636" topLine="78" />
+	</File>
+	<File name="..\src\physics\force.d" open="0" top="0" tabpos="10">
+		<Cursor position="2870" topLine="100" />
+	</File>
+	<File name="..\src\physics\links.d" open="0" top="0" tabpos="4">
+		<Cursor position="400" topLine="0" />
+	</File>
+	<File name="..\src\physics\misc.d" open="0" top="0" tabpos="5">
+		<Cursor position="3225" topLine="85" />
+	</File>
+	<File name="..\src\physics\physobj.d" open="0" top="0" tabpos="4">
+		<Cursor position="8547" topLine="229" />
+	</File>
+	<File name="..\src\physics\plane.d" open="0" top="0" tabpos="6">
+		<Cursor position="645" topLine="0" />
+	</File>
+	<File name="..\src\physics\sortandsweep.d" open="0" top="0" tabpos="7">
+		<Cursor position="282" topLine="0" />
+	</File>
+	<File name="..\src\physics\timedchanger.d" open="0" top="0" tabpos="0">
+		<Cursor position="117" topLine="0" />
+	</File>
+	<File name="..\src\physics\trigger.d" open="0" top="0" tabpos="3">
+		<Cursor position="1048" topLine="9" />
+	</File>
+	<File name="..\src\physics\world.d" open="0" top="0" tabpos="8">
+		<Cursor position="3114" topLine="63" />
+	</File>
+	<File name="..\src\physics\zone.d" open="0" top="0" tabpos="6">
+		<Cursor position="610" topLine="0" />
+	</File>
+	<File name="..\src\utils\archive.d" open="0" top="0" tabpos="2">
+		<Cursor position="393" topLine="0" />
+	</File>
+	<File name="..\src\utils\array.d" open="0" top="0" tabpos="6">
+		<Cursor position="3327" topLine="109" />
+	</File>
+	<File name="..\src\utils\boxpacker.d" open="0" top="0" tabpos="0">
+		<Cursor position="3876" topLine="112" />
+	</File>
+	<File name="..\src\utils\color.d" open="0" top="0" tabpos="3">
+		<Cursor position="334" topLine="47" />
+	</File>
+	<File name="..\src\utils\configfile.d" open="1" top="0" tabpos="27">
+		<Cursor position="6198" topLine="202" />
+	</File>
+	<File name="..\src\utils\drawing.d" open="0" top="0" tabpos="0">
+		<Cursor position="207" topLine="0" />
+	</File>
+	<File name="..\src\utils\factory.d" open="1" top="0" tabpos="16">
+		<Cursor position="737" topLine="68" />
+	</File>
+	<File name="..\src\utils\gzip.d" open="0" top="0" tabpos="1">
+		<Cursor position="313" topLine="0" />
+	</File>
+	<File name="..\src\utils\interpolate.d" open="0" top="0" tabpos="2">
+		<Cursor position="838" topLine="11" />
+	</File>
+	<File name="..\src\utils\list2.d" open="0" top="0" tabpos="1">
+		<Cursor position="9765" topLine="312" />
+	</File>
+	<File name="..\src\utils\log.d" open="0" top="0" tabpos="17">
+		<Cursor position="9887" topLine="342" />
+	</File>
+	<File name="..\src\utils\math.d" open="0" top="0" tabpos="0">
+		<Cursor position="154" topLine="7" />
+	</File>
+	<File name="..\src\utils\misc.d" open="0" top="0" tabpos="1">
+		<Cursor position="2336" topLine="55" />
+	</File>
+	<File name="..\src\utils\mybox.d" open="0" top="0" tabpos="0">
+		<Cursor position="83" topLine="0" />
+	</File>
+	<File name="..\src\utils\output.d" open="0" top="0" tabpos="4">
+		<Cursor position="918" topLine="0" />
+	</File>
+	<File name="..\src\utils\path.d" open="0" top="0" tabpos="3">
+		<Cursor position="4724" topLine="151" />
+	</File>
+	<File name="..\src\utils\perf.d" open="0" top="0" tabpos="0">
+		<Cursor position="2754" topLine="98" />
+	</File>
+	<File name="..\src\utils\queue.d" open="0" top="0" tabpos="3">
+		<Cursor position="124" topLine="0" />
+	</File>
+	<File name="..\src\utils\random.d" open="0" top="0" tabpos="6">
+		<Cursor position="101" topLine="0" />
+	</File>
+	<File name="..\src\utils\randval.d" open="0" top="0" tabpos="0">
+		<Cursor position="1161" topLine="16" />
+	</File>
+	<File name="..\src\utils\rect2.d" open="0" top="0" tabpos="26">
+		<Cursor position="2495" topLine="308" />
+	</File>
+	<File name="..\src\utils\ringbuffer.d" open="0" top="0" tabpos="0">
+		<Cursor position="48" topLine="27" />
+	</File>
+	<File name="..\src\utils\rndkiss.d" open="0" top="0" tabpos="7">
+		<Cursor position="5977" topLine="150" />
+	</File>
+	<File name="..\src\utils\stream.d" open="0" top="0" tabpos="0">
+		<Cursor position="12827" topLine="461" />
+	</File>
+	<File name="..\src\utils\string.d" open="0" top="0" tabpos="0">
+		<Cursor position="804" topLine="0" />
+	</File>
+	<File name="..\src\utils\strparser.d" open="0" top="0" tabpos="2">
+		<Cursor position="5278" topLine="154" />
+	</File>
+	<File name="..\src\utils\time.d" open="0" top="0" tabpos="3">
+		<Cursor position="10173" topLine="363" />
+	</File>
+	<File name="..\src\utils\timer.d" open="1" top="0" tabpos="13">
+		<Cursor position="1397" topLine="36" />
+	</File>
+	<File name="..\src\utils\timesource.d" open="0" top="0" tabpos="20">
+		<Cursor position="403" topLine="4" />
+	</File>
+	<File name="..\src\utils\transform.d" open="0" top="0" tabpos="0">
+		<Cursor position="802" topLine="0" />
+	</File>
+	<File name="..\src\utils\vector2.d" open="1" top="0" tabpos="10">
+		<Cursor position="6329" topLine="215" />
+	</File>
+	<File name="..\src\wwptools\load.d" open="0" top="0" tabpos="4">
+		<Cursor position="166" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
